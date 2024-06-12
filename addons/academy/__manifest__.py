@@ -3,14 +3,13 @@
     'name': "Academy",
 
     'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+        Este modulo esta dedicado al seguimiento de las informaciones academicas.""",
 
     'description': """
-        Long description of module's purpose
+        Con este modulo podras darle seguimiento a las informaciones de vital importancia en el entorno academico, del lado de la gestión.
     """,
 
-    'author': "My Company",
+    'author': "Elian",
     'website': "https://www.yourcompany.com",
 
     # Categories can be used to filter modules in modules listing
